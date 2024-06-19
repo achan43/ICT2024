@@ -1,0 +1,103 @@
+<DOCTYPE! html>
+<html>
+<head>
+<title> My Top 3 fruits</title>
+
+<link rel="fruitbowl.png" type="image/x-icon" href="/images/favicon.ico">
+
+<style>
+
+div {
+  height:50%;
+  width:30%;  
+  display:inline-block;
+  text-align:center;
+  color:blanchedalmond;
+  margin-left:43px;
+}
+
+
+a:link, a:visited {
+  background-color:blanchedalmond;
+  color: olive;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: darkred;
+  color:blanchedalmond;
+
+
+}
+
+
+h1{
+font-size:46px;  
+text-align:center
+}
+
+footer {
+  background-color:olive;
+  padding: 20px;
+  text-align: center;
+  color: crimson;
+  font-size:120%;
+  font-family:verdana;
+  margin-top:110px;
+}
+
+
+</style>
+</head>
+
+
+<body>
+<body style="background-color: blanchedalmond;">
+
+<h1 style="text-aling: center; font-family:verdana;color:olive;"><i>The TOP 3 Fruits of all time</i></h1>
+<br>
+<br>
+<h2 style="font-family:verdana;color:olive;"><i> Click to see why!</i></h2>
+
+
+
+<div style="background-color:olive;">
+  
+<h2> <a href=""> 1. Apples </a> </h2>
+<img src="Applegood.jpeg" alt="Apple" style="width:400px; height:300px;">
+
+</div>
+
+<div style="background-color:olive;">
+ 
+<h2> <a href=""> 2. Oranges </a> </h2>
+<img src="Orange.jpg" alt="oranges" style="width:400px; height:300px;">
+
+</div>
+
+<div style="background-color:olive;">
+
+<h2> <a href=""> 3. Grapes </a> </h2>
+<img src="Grape.jpg" alt="grapes" style="width:400px; height:300px;">
+
+</div>
+
+
+<footer>
+</footer>
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+</body>
+</html>
